@@ -20,10 +20,11 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
-### Name: T.Roshini
-### Register Number: 212223230175
-
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
+```
+Name: T.Roshini
+Register Number:212223230175
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -64,7 +65,7 @@ int main() {
     return 0;
 }
 
-
+```
 
 
 ## OUTPUT
